@@ -1,0 +1,22 @@
+
+
+Netlify URL:	https://629f558d9d52b80587180846--forgot-password-react.netlify.app/
+
+Heroku URL:	https://forgot-password-node-js.herokuapp.com/
+
+Front-end-Git-Hub-URL:	https://github.com/RajeshManoharan92/Forgot-Password-React
+
+Back-end-Git-Hub-URL:	https://github.com/RajeshManoharan92/Forgot-Password-Node
+
+
+Local-Host-Port:3002
+
+End-Points:
+
+	http://localhost:3002/register   	--> For new user registeration
+
+	http://localhost:3002/login     	 --> For user login
+
+	http://localhost:3002/forgotpass 	--> To send verification email
+
+	http://localhost:3002/setnewpassword 	--> To set new password
